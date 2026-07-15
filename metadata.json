@@ -1,0 +1,6 @@
+{
+  "name": "Guia Interativo de IA",
+  "description": "Um guia interativo e progressivo para iniciantes aprenderem conceitos básicos de Inteligência Artificial com desafios práticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
